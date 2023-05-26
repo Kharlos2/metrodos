@@ -20,12 +20,10 @@ namespace METRODOS
             llamarInfo();
 
         }
-
         public struct datos
         {
             public float totalpago;
         }
-
         private void label3_Click(object sender, EventArgs e)
         {
 
@@ -40,21 +38,14 @@ namespace METRODOS
         {
 
         }
-
         private void btnRegresar_Click(object sender, EventArgs e)
         {
-
-
             Perfil perfil = new Perfil();
             perfil.Show();
             this.Close();
-
         }
-
-
         private void Pagar_Load(object sender, EventArgs e)
         {
-
         }
         public void llamarInfo()
         {
@@ -67,40 +58,6 @@ namespace METRODOS
 
         private void clTransportes_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //int indice = clTransportes.SelectedIndex;
-
-            //if(indice != -1) 
-            //{
-            //    lbCosto.Text = "500";
-            //}
-
-            //if (clTransportes.GetItemChecked(0) == true)
-            //{
-            //    float costo = float.Parse(lbCosto.Text);
-            //    costo += 1;
-            //    lbCosto.Text = Convert.ToString(costo);
-
-            //}
-            //else if(clTransportes.GetItemChecked(0) == false)
-            //{
-            //    float costo = float.Parse(lbCosto.Text);
-            //    costo -= 1;
-            //    lbCosto.Text = Convert.ToString(costo);
-            //}
-            //if (clTransportes.GetItemChecked(1) == true)
-            //{
-            //    float costo = float.Parse(lbCosto.Text);
-            //    costo += 100;
-            //    lbCosto.Text = Convert.ToString(costo);
-            //}
-            //if (clTransportes.GetItemChecked(2) == true)
-            //{
-            //    float costo = float.Parse(lbCosto.Text);
-            //    costo += 10000;
-            //    lbCosto.Text = Convert.ToString(costo);
-            //}
-
-           
            
         }
 
@@ -111,49 +68,33 @@ namespace METRODOS
             if (clTransportes.GetItemChecked(0) == true)
             {
                 total = total + 2300;
-                //float costo = float.Parse(lbCosto.Text);
-                //costo += 1;
-                //lbCosto.Text = Convert.ToString(costo);
+               
             }
             if (clTransportes.GetItemChecked(1) == true)
             {
                 total = total + 1800;
-                //float costo = float.Parse(lbCosto.Text);
-                //costo += 1;
-                //lbCosto.Text = Convert.ToString(costo);
+                
             }
             if (clTransportes.GetItemChecked(2) == true)
             {
                 total = total + 2000;
-                //float costo = float.Parse(lbCosto.Text);
-                //costo += 1;
-                //lbCosto.Text = Convert.ToString(costo);
+                
             }
             if (clTransportes.GetItemChecked(3) == true)
             {
                 total = total + 10000;
-                //float costo = float.Parse(lbCosto.Text);
-                //costo += 1;
-                //lbCosto.Text = Convert.ToString(costo);
+                
             }
             if (clTransportes.GetItemChecked(4) == true)
             {
                 total = total + 20000;
-                //float costo = float.Parse(lbCosto.Text);
-                //costo += 1;
-                //lbCosto.Text = Convert.ToString(costo);
+            
             }
             if (clTransportes.GetItemChecked(5) == true)
             {
                 total = total + 1800;
-                //float costo = float.Parse(lbCosto.Text);
-                //costo += 1;
-                //lbCosto.Text = Convert.ToString(costo);
+               
             }
-            
-
-
-
             datos info;
             info.totalpago = total;
 
