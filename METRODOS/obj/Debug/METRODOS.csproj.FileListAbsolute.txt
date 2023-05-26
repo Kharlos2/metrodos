@@ -1,0 +1,16 @@
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\bin\Debug\METRODOS.exe.config
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\bin\Debug\METRODOS.exe
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\bin\Debug\METRODOS.pdb
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.csproj.AssemblyReference.cache
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.Inicio.resources
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.Properties.Resources.resources
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.Registrarse.resources
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.csproj.GenerateResource.cache
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.exe
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.pdb
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.Pagar.resources
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.Perfil.resources
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.Recargar.resources
+C:\Users\CARLOS\source\repos\METRODOS\METRODOS\obj\Debug\METRODOS.confirmar.resources
